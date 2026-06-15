@@ -1,0 +1,12 @@
+.env
+.vscode/
+.ipynb_checkpoints/
+
+*.h5
+*.pdf
+
+dataset/
+samples/
+
+__pycache__/
+*.pyc
